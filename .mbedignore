@@ -1,10 +1,23 @@
 * Note: Comment out the project name to be compiled (one at a time)
 
 //ad7689_iio-application/
+
 ad4130_iio-application/ 
+ad4130_iio-application/app/no-OS.lib
+ad4130_iio-application/app/no-OS/
+
 ad717x_iio-application/
+ad717x_iio-application/app/no-OS.lib
+ad717x_iio-application/app/no-OS/
+
 ad7124_temperature-measure-example/
+ad7124_temperature-measure-example/app/no-OS.lib
+ad7124_temperature-measure-example/app/no-OS/
+
 ad4696_iio-application/
+ad4696_iio-application/app/no-OS.lib
+ad4696_iio-application/app/no-OS/
+
 ad7606_iio-application/
 ad7124_console_application/
 ad717x_console-application/
